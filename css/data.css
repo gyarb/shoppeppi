@@ -1,0 +1,67 @@
+:root {
+  --color-title: #353535;
+  --color-text: #2c2c2c;
+  --color-leight: #b1b1b1;
+  --color-title-2: #3e8de0;
+  --color-link: #3e8de0;
+  --color-link-hover: #2b71bb;
+  --color-border: #c9c9c9;
+
+  --color-logo-1: #3e8de0;
+  --color-logo-2: #df665c;
+  --color-logo-3: #36dda9;
+
+  --color-1: #7bd3ea;
+  --color-2: #8926c5;
+  --color-3: #df665c;
+  --color-4: #36dda9;
+  --color-5: #3e8de0;
+
+  --color-red: #df665c;
+
+  --color-bg-1: #ecf5ff;
+
+  --transition: 0.2s;
+}
+
+.great-vibes-regular {
+  font-family: 'Great Vibes', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-light-italic {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular-italic {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium-italic {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
